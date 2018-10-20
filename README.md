@@ -5,6 +5,8 @@ This app makes use of [Fortnite Tracker](https://fortnitetracker.com/) and [FNBR
 
 No views included.
 
+Example usage with views: https://fntracker.azurewebsites.net/
+
 ## Built With
 [Express](https://expressjs.com/)
 
